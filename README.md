@@ -84,10 +84,6 @@ House-of-Biryani/
 - Include a rating system for dishes to enhance user interaction.  
 - Connect the backend to a database for order management and user data storage.  
 
-## 🤝 Contributing  
-
-Contributions are welcome! If you'd like to improve the project, feel free to fork the repository and submit a pull request. You can also report issues or suggest features on the [issues page](https://github.com/yourusername/House-of-Biryani/issues).  
-
 ## 📜 License  
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.  
@@ -95,6 +91,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📞 Contact  
 
 If you have any questions or feedback, feel free to reach out at:  
-- Email: yourname@example.com  
+- Email: 2k20ece048@kiot.ac.in  
 - GitHub: [Nithya09122002]((https://github.com/Nithya09122002))  
 
